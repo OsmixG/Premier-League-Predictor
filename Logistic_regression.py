@@ -1,4 +1,4 @@
-from read_me import PremierLeagueDataProcessor
+from read_data import PremierLeagueDataProcessor
 import math
 import numpy as np
 import matplotlib.pyplot as plt
